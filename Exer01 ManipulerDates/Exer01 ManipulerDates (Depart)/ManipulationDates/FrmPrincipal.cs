@@ -39,30 +39,31 @@ namespace ManipulationDates
             switch (cboMoments.SelectedIndex)
             {
                 case 1: // TODO 01 : Aujourd'hui, dans une heure
-
+                    dateAModifier.AddHours(1);
                     break;
                 case 2: // TODO 02 : Hier, même heure
-
+                    dateAModifier.AddDays(-1);
 
                     break;    
                 case 3: // TODO 03 : Demain, une heure de plus
-
+                    dateAModifier.AddHours(1);
+                    dateAModifier.AddDays(1);
                     break;
                 case 4: // TODO 04 : Il y a 4 semaines (-28 jours)
-
+                    dateAModifier.AddDays(-28);
                     break; 
                 case 5: // TODO 05 : Dans 2 mois
-
+                    dateAModifier.AddMonths(2);
                     break;   
                 case 6: // TODO 06 : Il y a 10 ans
-
+                    dateAModifier.AddYears(10);
                     break;
                 case 7: // TODO 07 : Dans 20 ans, même jour, même heure
-
+                    dateAModifier.AddYears(20);
                     break;
             }
             // TODO 08 : Afficher la nouvelle date en respectant le format d'affichage de la démo
-
+            txtDateFormattee.Text = dateAModifier.ToString();
         }
         #endregion
 

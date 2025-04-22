@@ -199,3 +199,13 @@ C:\Users\stephane.desmeules\Downloads\Rencontres\R11 ListView (Materiel) H23.1.0
 C:\Users\stephane.desmeules\Downloads\Rencontres\R11 ListView (Materiel) H23.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.csproj.CoreCompileInputs.cache
 C:\Users\stephane.desmeules\Downloads\Rencontres\R11 ListView (Materiel) H23.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.exe
 C:\Users\stephane.desmeules\Downloads\Rencontres\R11 ListView (Materiel) H23.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.pdb
+C:\Users\pierre-paul.gallant\Downloads\test-csharp\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\bin\Debug\ManipulationDates.exe.config
+C:\Users\pierre-paul.gallant\Downloads\test-csharp\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\bin\Debug\ManipulationDates.exe
+C:\Users\pierre-paul.gallant\Downloads\test-csharp\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\bin\Debug\ManipulationDates.pdb
+C:\Users\pierre-paul.gallant\Downloads\test-csharp\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.csproj.AssemblyReference.cache
+C:\Users\pierre-paul.gallant\Downloads\test-csharp\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.FrmPrincipal.resources
+C:\Users\pierre-paul.gallant\Downloads\test-csharp\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.Properties.Resources.resources
+C:\Users\pierre-paul.gallant\Downloads\test-csharp\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.csproj.GenerateResource.cache
+C:\Users\pierre-paul.gallant\Downloads\test-csharp\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.csproj.CoreCompileInputs.cache
+C:\Users\pierre-paul.gallant\Downloads\test-csharp\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.exe
+C:\Users\pierre-paul.gallant\Downloads\test-csharp\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.pdb
