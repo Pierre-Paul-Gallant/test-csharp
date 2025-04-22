@@ -1,0 +1,8 @@
+obj\Debug\ManipulationDates.exe
+obj\Debug\ManipulationDates.pdb
+bin\Debug\ManipulationDates.exe
+bin\Debug\ManipulationDates.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ManipulationDates.FrmPrincipal.resources
+obj\Debug\ManipulationDates.Properties.Resources.resources
+obj\Debug\ManipulationDates.csproj.GenerateResource.Cache

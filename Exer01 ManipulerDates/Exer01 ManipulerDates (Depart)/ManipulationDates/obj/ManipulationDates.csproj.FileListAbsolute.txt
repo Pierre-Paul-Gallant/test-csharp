@@ -1,0 +1,16 @@
+E:\AH08-206\01-Mise à niveau\Exercices Objet et Date\ManipulationDates\ManipulationDates\obj\Debug\ResolveAssemblyReference.cache
+E:\AH08-206\01-Mise à niveau\Exercices Objet et Date\ManipulationDates\ManipulationDates\obj\Debug\ManipulationDates.FrmPrincipal.resources
+E:\AH08-206\01-Mise à niveau\Exercices Objet et Date\ManipulationDates\ManipulationDates\obj\Debug\ManipulationDates.Properties.Resources.resources
+E:\AH08-206\01-Mise à niveau\Exercices Objet et Date\ManipulationDates\ManipulationDates\obj\Debug\ManipulationDates.csproj.GenerateResource.Cache
+E:\AH08-206\01-Mise à niveau\Exercices Objet et Date\ManipulationDates\ManipulationDates\bin\Debug\ManipulationDates.exe
+E:\AH08-206\01-Mise à niveau\Exercices Objet et Date\ManipulationDates\ManipulationDates\bin\Debug\ManipulationDates.pdb
+E:\AH08-206\01-Mise à niveau\Exercices Objet et Date\ManipulationDates\ManipulationDates\obj\Debug\ManipulationDates.exe
+E:\AH08-206\01-Mise à niveau\Exercices Objet et Date\ManipulationDates\ManipulationDates\obj\Debug\ManipulationDates.pdb
+E:\AH08-206\01-Mise à niveau\Exercices Objet et Date\ManipulationDates v2.0\ManipulationDates\obj\Debug\ManipulationDates.exe
+E:\AH08-206\01-Mise à niveau\Exercices Objet et Date\ManipulationDates v2.0\ManipulationDates\obj\Debug\ManipulationDates.pdb
+E:\AH08-206\01-Mise à niveau\Exercices Objet et Date\ManipulationDates v2.0\ManipulationDates\bin\Debug\ManipulationDates.exe
+E:\AH08-206\01-Mise à niveau\Exercices Objet et Date\ManipulationDates v2.0\ManipulationDates\bin\Debug\ManipulationDates.pdb
+E:\AH08-206\01-Mise à niveau\Exercices Objet et Date\ManipulationDates v2.0\ManipulationDates\obj\Debug\ResolveAssemblyReference.cache
+E:\AH08-206\01-Mise à niveau\Exercices Objet et Date\ManipulationDates v2.0\ManipulationDates\obj\Debug\ManipulationDates.FrmPrincipal.resources
+E:\AH08-206\01-Mise à niveau\Exercices Objet et Date\ManipulationDates v2.0\ManipulationDates\obj\Debug\ManipulationDates.Properties.Resources.resources
+E:\AH08-206\01-Mise à niveau\Exercices Objet et Date\ManipulationDates v2.0\ManipulationDates\obj\Debug\ManipulationDates.csproj.GenerateResource.Cache

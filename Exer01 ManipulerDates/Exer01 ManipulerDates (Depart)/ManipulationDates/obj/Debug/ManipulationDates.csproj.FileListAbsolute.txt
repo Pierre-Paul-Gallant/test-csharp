@@ -1,0 +1,201 @@
+N:\206\1-Mise à niveau\Exercice Dates\SolutionManipulationDates v2.1\ManipulationDates\obj\Debug\ManipulationDates.exe
+N:\206\1-Mise à niveau\Exercice Dates\SolutionManipulationDates v2.1\ManipulationDates\obj\Debug\ManipulationDates.pdb
+N:\206\1-Mise à niveau\Exercice Dates\SolutionManipulationDates v2.1\ManipulationDates\bin\Debug\ManipulationDates.exe
+N:\206\1-Mise à niveau\Exercice Dates\SolutionManipulationDates v2.1\ManipulationDates\bin\Debug\ManipulationDates.pdb
+N:\206\1-Mise à niveau\Exercice Dates\SolutionManipulationDates v2.1\ManipulationDates\obj\Debug\ResolveAssemblyReference.cache
+N:\206\1-Mise à niveau\Exercice Dates\SolutionManipulationDates v2.1\ManipulationDates\obj\Debug\ManipulationDates.FrmPrincipal.resources
+N:\206\1-Mise à niveau\Exercice Dates\SolutionManipulationDates v2.1\ManipulationDates\obj\Debug\ManipulationDates.Properties.Resources.resources
+N:\206\1-Mise à niveau\Exercice Dates\SolutionManipulationDates v2.1\ManipulationDates\obj\Debug\ManipulationDates.csproj.GenerateResource.Cache
+N:\206\1-Mise à niveau\02 DateTime et TimeSpan\Exercices Dates à compléter\SolutionManipulationDates v2.1\ManipulationDates\obj\Debug\ManipulationDates.exe
+N:\206\1-Mise à niveau\02 DateTime et TimeSpan\Exercices Dates à compléter\SolutionManipulationDates v2.1\ManipulationDates\obj\Debug\ManipulationDates.pdb
+N:\206\1-Mise à niveau\02 DateTime et TimeSpan\Exercices Dates à compléter\SolutionManipulationDates v2.1\ManipulationDates\bin\Debug\ManipulationDates.exe
+N:\206\1-Mise à niveau\02 DateTime et TimeSpan\Exercices Dates à compléter\SolutionManipulationDates v2.1\ManipulationDates\bin\Debug\ManipulationDates.pdb
+N:\206\1-Mise à niveau\02 DateTime et TimeSpan\Exercices Dates à compléter\SolutionManipulationDates v2.1\ManipulationDates\obj\Debug\ResolveAssemblyReference.cache
+N:\206\1-Mise à niveau\02 DateTime et TimeSpan\Exercices Dates à compléter\SolutionManipulationDates v2.1\ManipulationDates\obj\Debug\ManipulationDates.FrmPrincipal.resources
+N:\206\1-Mise à niveau\02 DateTime et TimeSpan\Exercices Dates à compléter\SolutionManipulationDates v2.1\ManipulationDates\obj\Debug\ManipulationDates.Properties.Resources.resources
+N:\206\1-Mise à niveau\02 DateTime et TimeSpan\Exercices Dates à compléter\SolutionManipulationDates v2.1\ManipulationDates\obj\Debug\ManipulationDates.csproj.GenerateResource.Cache
+N:\206 H10\03-ListView, ErrorProvider et Date\DateTime et TimeSpan\Solution_Exer_1_ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.exe
+N:\206 H10\03-ListView, ErrorProvider et Date\DateTime et TimeSpan\Solution_Exer_1_ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.pdb
+N:\206 H10\03-ListView, ErrorProvider et Date\DateTime et TimeSpan\Solution_Exer_1_ManipulerDates\ManipulationDates\bin\Debug\ManipulationDates.exe
+N:\206 H10\03-ListView, ErrorProvider et Date\DateTime et TimeSpan\Solution_Exer_1_ManipulerDates\ManipulationDates\bin\Debug\ManipulationDates.pdb
+N:\206 H10\03-ListView, ErrorProvider et Date\DateTime et TimeSpan\Solution_Exer_1_ManipulerDates\ManipulationDates\obj\Debug\ResolveAssemblyReference.cache
+N:\206 H10\03-ListView, ErrorProvider et Date\DateTime et TimeSpan\Solution_Exer_1_ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.FrmPrincipal.resources
+N:\206 H10\03-ListView, ErrorProvider et Date\DateTime et TimeSpan\Solution_Exer_1_ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.Properties.Resources.resources
+N:\206 H10\03-ListView, ErrorProvider et Date\DateTime et TimeSpan\Solution_Exer_1_ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.csproj.GenerateResource.Cache
+N:\206 H10\03-ListView, ErrorProvider et Date\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.exe
+N:\206 H10\03-ListView, ErrorProvider et Date\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.pdb
+E:\_Cours 206-H10\_Module 2\Cours jeudi\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.exe
+E:\_Cours 206-H10\_Module 2\Cours jeudi\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.pdb
+E:\_Cours 206-H10\_Module 2\Cours jeudi\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\bin\Debug\ManipulationDates.exe
+E:\_Cours 206-H10\_Module 2\Cours jeudi\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\bin\Debug\ManipulationDates.pdb
+E:\_Cours 206-H10\_Module 2\Cours jeudi\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 206-H10\_Module 2\Cours jeudi\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.FrmPrincipal.resources
+E:\_Cours 206-H10\_Module 2\Cours jeudi\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.Properties.Resources.resources
+E:\_Cours 206-H10\_Module 2\Cours jeudi\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.csproj.GenerateResource.Cache
+K:\_Cours 206-H10\_Module 2\Cours jeudi\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.exe
+K:\_Cours 206-H10\_Module 2\Cours jeudi\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.pdb
+K:\_Cours 206-H10\_Module 2\Cours jeudi\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\bin\Debug\ManipulationDates.exe
+K:\_Cours 206-H10\_Module 2\Cours jeudi\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\bin\Debug\ManipulationDates.pdb
+K:\_Cours 206-H10\_Module 2\Cours jeudi\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\ResolveAssemblyReference.cache
+K:\_Cours 206-H10\_Module 2\Cours jeudi\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.FrmPrincipal.resources
+K:\_Cours 206-H10\_Module 2\Cours jeudi\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.Properties.Resources.resources
+K:\_Cours 206-H10\_Module 2\Cours jeudi\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.csproj.GenerateResource.Cache
+E:\_Cours 206-H11\_Module 2\Théorie 06\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.exe
+E:\_Cours 206-H11\_Module 2\Théorie 06\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.pdb
+E:\_Cours 206-H11\_Module 2\Théorie 06\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\bin\Debug\ManipulationDates.exe
+E:\_Cours 206-H11\_Module 2\Théorie 06\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\bin\Debug\ManipulationDates.pdb
+E:\_Cours 206-H11\_Module 2\Théorie 06\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 206-H11\_Module 2\Théorie 06\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.FrmPrincipal.resources
+E:\_Cours 206-H11\_Module 2\Théorie 06\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.Properties.Resources.resources
+E:\_Cours 206-H11\_Module 2\Théorie 06\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 206-H11\_Module 2\Théorie 06\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours 206-H11\_Module 2\Théorie 06 Kit v1.0\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.exe
+E:\_Cours 206-H11\_Module 2\Théorie 06 Kit v1.0\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.pdb
+E:\_Mes Cours\_420-206 H11\Module 2\Théorie 06 Kit v1.1\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.exe
+E:\_Mes Cours\_420-206 H11\Module 2\Théorie 06 Kit v1.1\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.pdb
+E:\_Mes Cours\_420-206 H11\Module 2\Théorie 06 Kit v1.1\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\bin\Debug\ManipulationDates.exe
+E:\_Mes Cours\_420-206 H11\Module 2\Théorie 06 Kit v1.1\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\bin\Debug\ManipulationDates.pdb
+E:\_Mes Cours\_420-206 H11\Module 2\Théorie 06 Kit v1.1\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\ResolveAssemblyReference.cache
+E:\_Mes Cours\_420-206 H11\Module 2\Théorie 06 Kit v1.1\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.FrmPrincipal.resources
+E:\_Mes Cours\_420-206 H11\Module 2\Théorie 06 Kit v1.1\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.Properties.Resources.resources
+E:\_Mes Cours\_420-206 H11\Module 2\Théorie 06 Kit v1.1\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Mes Cours\_420-206 H11\Module 2\Théorie 06 Kit v1.1\A DateTime et TimeSpan\Solution_Exer_ManipulerDates\ManipulationDates\obj\Debug\GenerateResource-ResGen.write.1.tlog
+K:\_Mes Cours\_420-206 H11\Module 2\Théorie 06 Kit v1.2\A DateTime et TimeSpan\Solution_Exer_ManipulerDates V1.1\ManipulationDates\obj\Debug\ManipulationDates.exe
+K:\_Mes Cours\_420-206 H11\Module 2\Théorie 06 Kit v1.2\A DateTime et TimeSpan\Solution_Exer_ManipulerDates V1.1\ManipulationDates\obj\Debug\ManipulationDates.pdb
+E:\_Mes Cours\_420-206 H12\Mod 2\Theo 06 Kit v1.2\Theo06_A DateTime et TimeSpan\Theo06_ExerA _ManipulerDates V1.1 (Solution)\ManipulationDates\obj\Debug\ManipulationDates.exe
+E:\_Mes Cours\_420-206 H12\Mod 2\Theo 06 Kit v1.2\Theo06_A DateTime et TimeSpan\Theo06_ExerA _ManipulerDates V1.1 (Solution)\ManipulationDates\obj\Debug\ManipulationDates.pdb
+F:\_Mes Cours\_420-206 H12\Mod 2\Theo 06 Kit v1.2\Theo06_A DateTime et TimeSpan\Theo06_ExerA _ManipulerDates V1.1 (Solution)\ManipulationDates\obj\Debug\ManipulationDates.exe
+F:\_Mes Cours\_420-206 H12\Mod 2\Theo 06 Kit v1.2\Theo06_A DateTime et TimeSpan\Theo06_ExerA _ManipulerDates V1.1 (Solution)\ManipulationDates\obj\Debug\ManipulationDates.pdb
+F:\_Mes Cours\_420-206 H12\Mod 2\Theo 06 Kit v1.2\Theo06_A DateTime et TimeSpan\Theo06_ExerA _ManipulerDates V1.1 (Solution)\ManipulationDates\bin\Debug\ManipulationDates.exe
+F:\_Mes Cours\_420-206 H12\Mod 2\Theo 06 Kit v1.2\Theo06_A DateTime et TimeSpan\Theo06_ExerA _ManipulerDates V1.1 (Solution)\ManipulationDates\bin\Debug\ManipulationDates.pdb
+F:\_Mes Cours\_420-206 H12\Mod 2\Theo 06 Kit v1.2\Theo06_A DateTime et TimeSpan\Theo06_ExerA _ManipulerDates V1.1 (Solution)\ManipulationDates\obj\Debug\ResolveAssemblyReference.cache
+F:\_Mes Cours\_420-206 H12\Mod 2\Theo 06 Kit v1.2\Theo06_A DateTime et TimeSpan\Theo06_ExerA _ManipulerDates V1.1 (Solution)\ManipulationDates\obj\Debug\ManipulationDates.FrmPrincipal.resources
+F:\_Mes Cours\_420-206 H12\Mod 2\Theo 06 Kit v1.2\Theo06_A DateTime et TimeSpan\Theo06_ExerA _ManipulerDates V1.1 (Solution)\ManipulationDates\obj\Debug\ManipulationDates.Properties.Resources.resources
+F:\_Mes Cours\_420-206 H12\Mod 2\Theo 06 Kit v1.2\Theo06_A DateTime et TimeSpan\Theo06_ExerA _ManipulerDates V1.1 (Solution)\ManipulationDates\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\_Mes Cours\_420-206 H12\Mod 2\Theo 06 Kit v1.2\Theo06_A DateTime et TimeSpan\Theo06_ExerA _ManipulerDates V1.1 (Solution)\ManipulationDates\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\__Cours\420-206 H13\Module #2\R10 ListView (Solution) v1.1\ExerA _ManipulerDates (Solution)\ManipulationDates\obj\Debug\ManipulationDates.exe
+E:\__Cours\420-206 H13\Module #2\R10 ListView (Solution) v1.1\ExerA _ManipulerDates (Solution)\ManipulationDates\obj\Debug\ManipulationDates.pdb
+F:\_Cours 206-H14\_Module #2\R09 ListView (Solution) v0.0\ExerA  ManipulerDates (Solution)\ManipulationDates\obj\Debug\ManipulationDates.exe
+F:\_Cours 206-H14\_Module #2\R09 ListView (Solution) v0.0\ExerA  ManipulerDates (Solution)\ManipulationDates\obj\Debug\ManipulationDates.pdb
+F:\_Cours 206-H14\_Module #2\R09 ListView (Solution) v0.0\ExerA  ManipulerDates (Solution)\ManipulationDates\bin\Debug\ManipulationDates.exe
+F:\_Cours 206-H14\_Module #2\R09 ListView (Solution) v0.0\ExerA  ManipulerDates (Solution)\ManipulationDates\bin\Debug\ManipulationDates.pdb
+F:\_Cours 206-H14\_Module #2\R09 ListView (Solution) v0.0\ExerA  ManipulerDates (Solution)\ManipulationDates\obj\Debug\ManipulationDates.csprojResolveAssemblyReference.cache
+F:\_Cours 206-H14\_Module #2\R09 ListView (Solution) v0.0\ExerA  ManipulerDates (Solution)\ManipulationDates\obj\Debug\ManipulationDates.FrmPrincipal.resources
+F:\_Cours 206-H14\_Module #2\R09 ListView (Solution) v0.0\ExerA  ManipulerDates (Solution)\ManipulationDates\obj\Debug\ManipulationDates.Properties.Resources.resources
+F:\_Cours 206-H14\_Module #2\R09 ListView (Solution) v0.0\ExerA  ManipulerDates (Solution)\ManipulationDates\obj\Debug\ManipulationDates.csproj.GenerateResource.Cache
+E:\__Cours\420-206 H14\Module 2\R09 ListView (Solution) v1.1\ExerA  ManipulerDates (Solution)\ManipulationDates\obj\Debug\ManipulationDates.exe
+E:\__Cours\420-206 H14\Module 2\R09 ListView (Solution) v1.1\ExerA  ManipulerDates (Solution)\ManipulationDates\obj\Debug\ManipulationDates.pdb
+E:\_420-206 H15\_Module 2\R09 ListView (Solution) v1.1\ExerA  ManipulerDates (Solution)\ManipulationDates\obj\Debug\ManipulationDates.exe
+E:\_420-206 H15\_Module 2\R09 ListView (Solution) v1.1\ExerA  ManipulerDates (Solution)\ManipulationDates\obj\Debug\ManipulationDates.pdb
+E:\_420-206 H15\_Module 2\R09 ListView (Solution) v1.1\ExerA  ManipulerDates (Solution)\ManipulationDates\bin\Debug\ManipulationDates.exe
+E:\_420-206 H15\_Module 2\R09 ListView (Solution) v1.1\ExerA  ManipulerDates (Solution)\ManipulationDates\bin\Debug\ManipulationDates.pdb
+E:\_420-206 H15\_Module 2\R09 ListView (Solution) v1.1\ExerA  ManipulerDates (Solution)\ManipulationDates\obj\Debug\ManipulationDates.csprojResolveAssemblyReference.cache
+E:\_420-206 H15\_Module 2\R09 ListView (Solution) v1.1\ExerA  ManipulerDates (Solution)\ManipulationDates\obj\Debug\ManipulationDates.FrmPrincipal.resources
+E:\_420-206 H15\_Module 2\R09 ListView (Solution) v1.1\ExerA  ManipulerDates (Solution)\ManipulationDates\obj\Debug\ManipulationDates.Properties.Resources.resources
+E:\_420-206 H15\_Module 2\R09 ListView (Solution) v1.1\ExerA  ManipulerDates (Solution)\ManipulationDates\obj\Debug\ManipulationDates.csproj.GenerateResource.Cache
+G:\_420-206 H15\_Module 2 H15\R09 ListView (Solution) H15.1\ExerA  ManipulerDates (Solution) H15.1\ManipulationDates\obj\Debug\ManipulationDates.exe
+G:\_420-206 H15\_Module 2 H15\R09 ListView (Solution) H15.1\ExerA  ManipulerDates (Solution) H15.1\ManipulationDates\obj\Debug\ManipulationDates.pdb
+G:\_420-206 H15\_Module 2 H15\R09 ListView (Solution) H15.1\ExerA  ManipulerDates (Solution) H15.1\ManipulationDates\bin\Debug\ManipulationDates.exe
+G:\_420-206 H15\_Module 2 H15\R09 ListView (Solution) H15.1\ExerA  ManipulerDates (Solution) H15.1\ManipulationDates\bin\Debug\ManipulationDates.pdb
+G:\_420-206 H15\_Module 2 H15\R09 ListView (Solution) H15.1\ExerA  ManipulerDates (Solution) H15.1\ManipulationDates\obj\Debug\ManipulationDates.csprojResolveAssemblyReference.cache
+G:\_420-206 H15\_Module 2 H15\R09 ListView (Solution) H15.1\ExerA  ManipulerDates (Solution) H15.1\ManipulationDates\obj\Debug\ManipulationDates.FrmPrincipal.resources
+G:\_420-206 H15\_Module 2 H15\R09 ListView (Solution) H15.1\ExerA  ManipulerDates (Solution) H15.1\ManipulationDates\obj\Debug\ManipulationDates.Properties.Resources.resources
+G:\_420-206 H15\_Module 2 H15\R09 ListView (Solution) H15.1\ExerA  ManipulerDates (Solution) H15.1\ManipulationDates\obj\Debug\ManipulationDates.csproj.GenerateResource.Cache
+G:\_420-206 A16\_Module 2\R09 ListView (Solution) H15.2\ExerA  ManipulerDates (Solution) H15.1\ManipulationDates\obj\Debug\ManipulationDates.exe
+G:\_420-206 A16\_Module 2\R09 ListView (Solution) H15.2\ExerA  ManipulerDates (Solution) H15.1\ManipulationDates\obj\Debug\ManipulationDates.pdb
+G:\_420-206 A16\_Module 2\R09 ListView (Solution) H15.2\ExerA  ManipulerDates (Solution) H15.1\ManipulationDates\bin\Debug\ManipulationDates.exe
+G:\_420-206 A16\_Module 2\R09 ListView (Solution) H15.2\ExerA  ManipulerDates (Solution) H15.1\ManipulationDates\bin\Debug\ManipulationDates.pdb
+G:\_420-206 A16\_Module 2\R09 ListView (Solution) H15.2\ExerA  ManipulerDates (Solution) H15.1\ManipulationDates\obj\Debug\ManipulationDates.csprojResolveAssemblyReference.cache
+G:\_420-206 A16\_Module 2\R09 ListView (Solution) H15.2\ExerA  ManipulerDates (Solution) H15.1\ManipulationDates\obj\Debug\ManipulationDates.FrmPrincipal.resources
+G:\_420-206 A16\_Module 2\R09 ListView (Solution) H15.2\ExerA  ManipulerDates (Solution) H15.1\ManipulationDates\obj\Debug\ManipulationDates.Properties.Resources.resources
+G:\_420-206 A16\_Module 2\R09 ListView (Solution) H15.2\ExerA  ManipulerDates (Solution) H15.1\ManipulationDates\obj\Debug\ManipulationDates.csproj.GenerateResource.Cache
+I:\_420-206 A16\_Module 2\R09 ListView (Solution) H16.1\ExerA  ManipulerDates (Solution) H16.1\ManipulationDates\obj\Debug\ManipulationDates.exe
+I:\_420-206 A16\_Module 2\R09 ListView (Solution) H16.1\ExerA  ManipulerDates (Solution) H16.1\ManipulationDates\obj\Debug\ManipulationDates.pdb
+E:\_420-206 A16\_Module 2\R09 ListView (Solution) H16.1\ExerA  ManipulerDates (Solution) H16.1\ManipulationDates\obj\Debug\ManipulationDates.exe
+E:\_420-206 A16\_Module 2\R09 ListView (Solution) H16.1\ExerA  ManipulerDates (Solution) H16.1\ManipulationDates\obj\Debug\ManipulationDates.pdb
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H16.1\ExerA  ManipulerDates (Solution) H16.1\ManipulationDates\obj\Debug\ManipulationDates.exe
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H16.1\ExerA  ManipulerDates (Solution) H16.1\ManipulationDates\obj\Debug\ManipulationDates.pdb
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H16.1\ExerA  ManipulerDates (Solution) H16.1\ManipulationDates\bin\Debug\ManipulationDates.exe
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H16.1\ExerA  ManipulerDates (Solution) H16.1\ManipulationDates\bin\Debug\ManipulationDates.pdb
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H16.1\ExerA  ManipulerDates (Solution) H16.1\ManipulationDates\obj\Debug\ManipulationDates.csprojResolveAssemblyReference.cache
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H16.1\ExerA  ManipulerDates (Solution) H16.1\ManipulationDates\obj\Debug\ManipulationDates.FrmPrincipal.resources
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H16.1\ExerA  ManipulerDates (Solution) H16.1\ManipulationDates\obj\Debug\ManipulationDates.Properties.Resources.resources
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H16.1\ExerA  ManipulerDates (Solution) H16.1\ManipulationDates\obj\Debug\ManipulationDates.csproj.GenerateResource.Cache
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H16.1\ExerA  ManipulerDates (Solution) H16.1.1\ManipulationDates\obj\Debug\ManipulationDates.exe
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H16.1\ExerA  ManipulerDates (Solution) H16.1.1\ManipulationDates\obj\Debug\ManipulationDates.pdb
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H16.1\ExerA  ManipulerDates (Solution) H16.1.1\ManipulationDates\bin\Debug\ManipulationDates.exe
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H16.1\ExerA  ManipulerDates (Solution) H16.1.1\ManipulationDates\bin\Debug\ManipulationDates.pdb
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H16.1\ExerA  ManipulerDates (Solution) H16.1.1\ManipulationDates\obj\Debug\ManipulationDates.csprojResolveAssemblyReference.cache
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H16.1\ExerA  ManipulerDates (Solution) H16.1.1\ManipulationDates\obj\Debug\ManipulationDates.FrmPrincipal.resources
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H16.1\ExerA  ManipulerDates (Solution) H16.1.1\ManipulationDates\obj\Debug\ManipulationDates.Properties.Resources.resources
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H16.1\ExerA  ManipulerDates (Solution) H16.1.1\ManipulationDates\obj\Debug\ManipulationDates.csproj.GenerateResource.Cache
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H17.1\ExerA  ManipulerDates (Solution) H17.1.0\ManipulationDates\obj\Debug\ManipulationDates.exe
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H17.1\ExerA  ManipulerDates (Solution) H17.1.0\ManipulationDates\obj\Debug\ManipulationDates.pdb
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H17.1\ExerA  ManipulerDates (Solution) H17.1.0\ManipulationDates\bin\Debug\ManipulationDates.exe
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H17.1\ExerA  ManipulerDates (Solution) H17.1.0\ManipulationDates\bin\Debug\ManipulationDates.pdb
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H17.1\ExerA  ManipulerDates (Solution) H17.1.0\ManipulationDates\obj\Debug\ManipulationDates.csprojResolveAssemblyReference.cache
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H17.1\ExerA  ManipulerDates (Solution) H17.1.0\ManipulationDates\obj\Debug\ManipulationDates.FrmPrincipal.resources
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H17.1\ExerA  ManipulerDates (Solution) H17.1.0\ManipulationDates\obj\Debug\ManipulationDates.Properties.Resources.resources
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H17.1\ExerA  ManipulerDates (Solution) H17.1.0\ManipulationDates\obj\Debug\ManipulationDates.csproj.GenerateResource.Cache
+H:\_Cours 206 H17\Module 2\R09 ListView (Solution) H17.1\ExerA  ManipulerDates (Solution) H17.1.0\ManipulationDates\obj\Debug\ManipulationDates.exe
+H:\_Cours 206 H17\Module 2\R09 ListView (Solution) H17.1\ExerA  ManipulerDates (Solution) H17.1.0\ManipulationDates\obj\Debug\ManipulationDates.pdb
+H:\_Cours 206 H17\Module 2\R09 ListView (Solution) H17.1\ExerA  ManipulerDates (Solution) H17.1.0\ManipulationDates\bin\Debug\ManipulationDates.exe
+H:\_Cours 206 H17\Module 2\R09 ListView (Solution) H17.1\ExerA  ManipulerDates (Solution) H17.1.0\ManipulationDates\bin\Debug\ManipulationDates.pdb
+H:\_Cours 206 H17\Module 2\R09 ListView (Solution) H17.1\ExerA  ManipulerDates (Solution) H17.1.0\ManipulationDates\obj\Debug\ManipulationDates.csprojResolveAssemblyReference.cache
+H:\_Cours 206 H17\Module 2\R09 ListView (Solution) H17.1\ExerA  ManipulerDates (Solution) H17.1.0\ManipulationDates\obj\Debug\ManipulationDates.FrmPrincipal.resources
+H:\_Cours 206 H17\Module 2\R09 ListView (Solution) H17.1\ExerA  ManipulerDates (Solution) H17.1.0\ManipulationDates\obj\Debug\ManipulationDates.Properties.Resources.resources
+H:\_Cours 206 H17\Module 2\R09 ListView (Solution) H17.1\ExerA  ManipulerDates (Solution) H17.1.0\ManipulationDates\obj\Debug\ManipulationDates.csproj.GenerateResource.Cache
+H:\Hiv2018\206_18\R10ListView DateTime\R10 ListView (Solution) H17.1\ExerA  ManipulerDates (Solution) H17.1.0\ManipulationDates\obj\Debug\ManipulationDates.exe
+H:\Hiv2018\206_18\R10ListView DateTime\R10 ListView (Solution) H17.1\ExerA  ManipulerDates (Solution) H17.1.0\ManipulationDates\obj\Debug\ManipulationDates.pdb
+H:\Hiv2018\206_18\R10ListView DateTime\R10 ListView (Solution) H17.1\ExerA  ManipulerDates (Solution) H17.1.0\ManipulationDates\bin\Debug\ManipulationDates.exe
+H:\Hiv2018\206_18\R10ListView DateTime\R10 ListView (Solution) H17.1\ExerA  ManipulerDates (Solution) H17.1.0\ManipulationDates\bin\Debug\ManipulationDates.pdb
+H:\Hiv2018\206_18\R10ListView DateTime\R10 ListView (Solution) H17.1\ExerA  ManipulerDates (Solution) H17.1.0\ManipulationDates\obj\Debug\ManipulationDates.csprojResolveAssemblyReference.cache
+H:\Hiv2018\206_18\R10ListView DateTime\R10 ListView (Solution) H17.1\ExerA  ManipulerDates (Solution) H17.1.0\ManipulationDates\obj\Debug\ManipulationDates.FrmPrincipal.resources
+H:\Hiv2018\206_18\R10ListView DateTime\R10 ListView (Solution) H17.1\ExerA  ManipulerDates (Solution) H17.1.0\ManipulationDates\obj\Debug\ManipulationDates.Properties.Resources.resources
+H:\Hiv2018\206_18\R10ListView DateTime\R10 ListView (Solution) H17.1\ExerA  ManipulerDates (Solution) H17.1.0\ManipulationDates\obj\Debug\ManipulationDates.csproj.GenerateResource.Cache
+C:\EspaceLabo\R11 ListView (Solution) H20.1.0\Exer01 ManipulerDates\ManipulationDates\bin\Debug\ManipulationDates.exe
+C:\EspaceLabo\R11 ListView (Solution) H20.1.0\Exer01 ManipulerDates\ManipulationDates\bin\Debug\ManipulationDates.pdb
+C:\EspaceLabo\R11 ListView (Solution) H20.1.0\Exer01 ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.csprojAssemblyReference.cache
+C:\EspaceLabo\R11 ListView (Solution) H20.1.0\Exer01 ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.FrmPrincipal.resources
+C:\EspaceLabo\R11 ListView (Solution) H20.1.0\Exer01 ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.Properties.Resources.resources
+C:\EspaceLabo\R11 ListView (Solution) H20.1.0\Exer01 ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.csproj.GenerateResource.cache
+C:\EspaceLabo\R11 ListView (Solution) H20.1.0\Exer01 ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.exe
+C:\EspaceLabo\R11 ListView (Solution) H20.1.0\Exer01 ManipulerDates\ManipulationDates\obj\Debug\ManipulationDates.pdb
+C:\EspaceLabo\R11 ListView (Materiel) H20.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\bin\Debug\ManipulationDates.exe
+C:\EspaceLabo\R11 ListView (Materiel) H20.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\bin\Debug\ManipulationDates.pdb
+C:\EspaceLabo\R11 ListView (Materiel) H20.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.csprojAssemblyReference.cache
+C:\EspaceLabo\R11 ListView (Materiel) H20.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.FrmPrincipal.resources
+C:\EspaceLabo\R11 ListView (Materiel) H20.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.Properties.Resources.resources
+C:\EspaceLabo\R11 ListView (Materiel) H20.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.csproj.GenerateResource.cache
+C:\EspaceLabo\R11 ListView (Materiel) H20.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.exe
+C:\EspaceLabo\R11 ListView (Materiel) H20.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.pdb
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H20.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\bin\Debug\ManipulationDates.exe
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H20.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\bin\Debug\ManipulationDates.pdb
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H20.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H20.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H20.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H20.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H20.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H20.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.exe
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H20.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.pdb
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H20.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\bin\Debug\ManipulationDates.exe.config
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H21.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\bin\Debug\ManipulationDates.exe.config
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H21.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\bin\Debug\ManipulationDates.exe
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H21.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\bin\Debug\ManipulationDates.pdb
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H21.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H21.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H21.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H21.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H21.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H21.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.exe
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H21.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.pdb
+C:\Users\stephane.desmeules\Downloads\Rencontres\R11 ListView (Materiel) H23.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\bin\Debug\ManipulationDates.exe.config
+C:\Users\stephane.desmeules\Downloads\Rencontres\R11 ListView (Materiel) H23.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\bin\Debug\ManipulationDates.exe
+C:\Users\stephane.desmeules\Downloads\Rencontres\R11 ListView (Materiel) H23.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\bin\Debug\ManipulationDates.pdb
+C:\Users\stephane.desmeules\Downloads\Rencontres\R11 ListView (Materiel) H23.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\Rencontres\R11 ListView (Materiel) H23.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.FrmPrincipal.resources
+C:\Users\stephane.desmeules\Downloads\Rencontres\R11 ListView (Materiel) H23.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\Rencontres\R11 ListView (Materiel) H23.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\Rencontres\R11 ListView (Materiel) H23.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\Rencontres\R11 ListView (Materiel) H23.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.exe
+C:\Users\stephane.desmeules\Downloads\Rencontres\R11 ListView (Materiel) H23.1.0\Exer01 ManipulerDates\Exer01 ManipulerDates (Depart)\ManipulationDates\obj\Debug\ManipulationDates.pdb
