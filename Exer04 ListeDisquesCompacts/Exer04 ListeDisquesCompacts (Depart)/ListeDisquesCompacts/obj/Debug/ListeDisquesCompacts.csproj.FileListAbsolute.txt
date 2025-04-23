@@ -1,0 +1,192 @@
+N:\206 H10\03-ListView, ErrorProvider et Date\Exercice List View\ListeDisquesCompacts\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.exe
+N:\206 H10\03-ListView, ErrorProvider et Date\Exercice List View\ListeDisquesCompacts\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.pdb
+N:\206 H10\03-ListView, ErrorProvider et Date\Exercice List View\ListeDisquesCompacts\ListeDisquesCompacts\bin\Debug\IntroObjets.dll
+N:\206 H10\03-ListView, ErrorProvider et Date\Exercice List View\ListeDisquesCompacts\ListeDisquesCompacts\bin\Debug\IntroObjets.pdb
+N:\206 H10\03-ListView, ErrorProvider et Date\Exercice List View\ListeDisquesCompacts\ListeDisquesCompacts\bin\Debug\IntroObjets.xml
+N:\206 H10\03-ListView, ErrorProvider et Date\Exercice List View\ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ResolveAssemblyReference.cache
+N:\206 H10\03-ListView, ErrorProvider et Date\Exercice List View\ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.FrmPrincipal.resources
+N:\206 H10\03-ListView, ErrorProvider et Date\Exercice List View\ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.Properties.Resources.resources
+N:\206 H10\03-ListView, ErrorProvider et Date\Exercice List View\ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csproj.GenerateResource.Cache
+N:\206 H10\03-ListView, ErrorProvider et Date\Exercice List View\ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.exe
+N:\206 H10\03-ListView, ErrorProvider et Date\Exercice List View\ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.pdb
+E:\206 H10\03-ListView, ErrorProvider et Date\Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.exe
+E:\206 H10\03-ListView, ErrorProvider et Date\Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.pdb
+E:\206 H10\03-ListView, ErrorProvider et Date\Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.exe
+E:\206 H10\03-ListView, ErrorProvider et Date\Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.pdb
+E:\206 H10\03-ListView, ErrorProvider et Date\Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\bin\Debug\IntroObjets.pdb
+E:\206 H10\03-ListView, ErrorProvider et Date\Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\bin\Debug\IntroObjets.xml
+E:\206 H10\03-ListView, ErrorProvider et Date\Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ResolveAssemblyReference.cache
+E:\206 H10\03-ListView, ErrorProvider et Date\Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.FrmPrincipal.resources
+E:\206 H10\03-ListView, ErrorProvider et Date\Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.Properties.Resources.resources
+E:\206 H10\03-ListView, ErrorProvider et Date\Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csproj.GenerateResource.Cache
+N:\206 H10\03-ListView, ErrorProvider et Date\D Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.exe
+N:\206 H10\03-ListView, ErrorProvider et Date\D Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.pdb
+N:\206 H10\03-ListView, ErrorProvider et Date\D Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.exe
+N:\206 H10\03-ListView, ErrorProvider et Date\D Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.pdb
+N:\206 H10\03-ListView, ErrorProvider et Date\D Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\bin\Debug\IntroObjets.pdb
+N:\206 H10\03-ListView, ErrorProvider et Date\D Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\bin\Debug\IntroObjets.xml
+N:\206 H10\03-ListView, ErrorProvider et Date\D Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ResolveAssemblyReference.cache
+N:\206 H10\03-ListView, ErrorProvider et Date\D Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.FrmPrincipal.resources
+N:\206 H10\03-ListView, ErrorProvider et Date\D Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.Properties.Resources.resources
+N:\206 H10\03-ListView, ErrorProvider et Date\D Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csproj.GenerateResource.Cache
+K:\_Cours 206-H10\_Module 2\Cours jeudi\D Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.exe
+K:\_Cours 206-H10\_Module 2\Cours jeudi\D Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.pdb
+E:\_Cours 206-H11\_Module 2\Théorie 06\D Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.exe
+E:\_Cours 206-H11\_Module 2\Théorie 06\D Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.pdb
+E:\_Cours 206-H11\_Module 2\Théorie 06\D Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.exe
+E:\_Cours 206-H11\_Module 2\Théorie 06\D Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.pdb
+E:\_Cours 206-H11\_Module 2\Théorie 06\D Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\bin\Debug\IntroObjets.pdb
+E:\_Cours 206-H11\_Module 2\Théorie 06\D Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\bin\Debug\IntroObjets.xml
+E:\_Cours 206-H11\_Module 2\Théorie 06\D Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 206-H11\_Module 2\Théorie 06\D Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.FrmPrincipal.resources
+E:\_Cours 206-H11\_Module 2\Théorie 06\D Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.Properties.Resources.resources
+E:\_Cours 206-H11\_Module 2\Théorie 06\D Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 206-H11\_Module 2\Théorie 06\D Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\GenerateResource-ResGen.write.1.tlog
+K:\_Mes Cours\_420-206 H11\Module 2\Théorie 06 Kit v1.2\Theo06_ExempleD Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.exe
+K:\_Mes Cours\_420-206 H11\Module 2\Théorie 06 Kit v1.2\Theo06_ExempleD Exercice List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.pdb
+K:\_Mes Cours\_420-206 H11\Module 2\Théorie 06 Kit v1.2\Theo06_ExerciceD List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.exe
+K:\_Mes Cours\_420-206 H11\Module 2\Théorie 06 Kit v1.2\Theo06_ExerciceD List View\Sol_ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.pdb
+K:\_Mes Cours\_420-206 H11\Module 2\Théorie 06 Kit v1.2\Theo06_ExerciceD List View\Theo06_ExerD_ListeDisquesCompacts (Materiel)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.exe
+K:\_Mes Cours\_420-206 H11\Module 2\Théorie 06 Kit v1.2\Theo06_ExerciceD List View\Theo06_ExerD_ListeDisquesCompacts (Materiel)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.pdb
+F:\_Mes Cours\_420-206 H12\Mod 2\Theo 06 Kit v1.2\Theo06_C List View\Theo06_ExerC2_ListeDisquesCompacts (Solution)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.exe
+F:\_Mes Cours\_420-206 H12\Mod 2\Theo 06 Kit v1.2\Theo06_C List View\Theo06_ExerC2_ListeDisquesCompacts (Solution)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.pdb
+E:\__Cours\420-206 H13\Module #2\R10 ListView (Solution) v1.1\ExerC2_ListeDisquesCompacts (Solution)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.exe
+E:\__Cours\420-206 H13\Module #2\R10 ListView (Solution) v1.1\ExerC2_ListeDisquesCompacts (Solution)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.pdb
+E:\__Cours\420-206 H13\Module #2\R10 ListView (Solution) v1.1\ExerC2_ListeDisquesCompacts (Solution)\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.exe
+E:\__Cours\420-206 H13\Module #2\R10 ListView (Solution) v1.1\ExerC2_ListeDisquesCompacts (Solution)\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.pdb
+E:\__Cours\420-206 H13\Module #2\R10 ListView (Solution) v1.1\ExerC2_ListeDisquesCompacts (Solution)\ListeDisquesCompacts\bin\Debug\IntroObjets.dll
+E:\__Cours\420-206 H13\Module #2\R10 ListView (Solution) v1.1\ExerC2_ListeDisquesCompacts (Solution)\ListeDisquesCompacts\bin\Debug\IntroObjets.pdb
+E:\__Cours\420-206 H13\Module #2\R10 ListView (Solution) v1.1\ExerC2_ListeDisquesCompacts (Solution)\ListeDisquesCompacts\bin\Debug\IntroObjets.xml
+E:\__Cours\420-206 H13\Module #2\R10 ListView (Solution) v1.1\ExerC2_ListeDisquesCompacts (Solution)\ListeDisquesCompacts\obj\Debug\ResolveAssemblyReference.cache
+E:\__Cours\420-206 H13\Module #2\R10 ListView (Solution) v1.1\ExerC2_ListeDisquesCompacts (Solution)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.FrmPrincipal.resources
+E:\__Cours\420-206 H13\Module #2\R10 ListView (Solution) v1.1\ExerC2_ListeDisquesCompacts (Solution)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.Properties.Resources.resources
+E:\__Cours\420-206 H13\Module #2\R10 ListView (Solution) v1.1\ExerC2_ListeDisquesCompacts (Solution)\ListeDisquesCompacts\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\__Cours\420-206 H13\Module #2\R10 ListView (Solution) v1.1\ExerC2_ListeDisquesCompacts (Solution)\ListeDisquesCompacts\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\_Cours 206-H14\_Module #2\R09 ListView (Solution) v0.0\ExerC2 ListeDisquesCompacts (Solution)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.exe
+F:\_Cours 206-H14\_Module #2\R09 ListView (Solution) v0.0\ExerC2 ListeDisquesCompacts (Solution)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.pdb
+F:\_Cours 206-H14\_Module #2\R09 ListView (Solution) v0.0\ExerC2 ListeDisquesCompacts (Solution)\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.exe
+F:\_Cours 206-H14\_Module #2\R09 ListView (Solution) v0.0\ExerC2 ListeDisquesCompacts (Solution)\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.pdb
+F:\_Cours 206-H14\_Module #2\R09 ListView (Solution) v0.0\ExerC2 ListeDisquesCompacts (Solution)\ListeDisquesCompacts\bin\Debug\IntroObjets.pdb
+F:\_Cours 206-H14\_Module #2\R09 ListView (Solution) v0.0\ExerC2 ListeDisquesCompacts (Solution)\ListeDisquesCompacts\bin\Debug\IntroObjets.xml
+F:\_Cours 206-H14\_Module #2\R09 ListView (Solution) v0.0\ExerC2 ListeDisquesCompacts (Solution)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csprojResolveAssemblyReference.cache
+F:\_Cours 206-H14\_Module #2\R09 ListView (Solution) v0.0\ExerC2 ListeDisquesCompacts (Solution)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.FrmPrincipal.resources
+F:\_Cours 206-H14\_Module #2\R09 ListView (Solution) v0.0\ExerC2 ListeDisquesCompacts (Solution)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.Properties.Resources.resources
+F:\_Cours 206-H14\_Module #2\R09 ListView (Solution) v0.0\ExerC2 ListeDisquesCompacts (Solution)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csproj.GenerateResource.Cache
+F:\__Cours\420-206 H14\Module 2\R09 ListView (Solution) v1.1\ExerC2 ListeDisquesCompacts (Solution)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.exe
+F:\__Cours\420-206 H14\Module 2\R09 ListView (Solution) v1.1\ExerC2 ListeDisquesCompacts (Solution)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.pdb
+E:\__Cours\420-206 H14\Module 2\R09 ListView (Solution) v1.1\ExerC2 ListeDisquesCompacts (Solution)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.exe
+E:\__Cours\420-206 H14\Module 2\R09 ListView (Solution) v1.1\ExerC2 ListeDisquesCompacts (Solution)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.pdb
+E:\_420-206 H15\_Module 2\R09 ListView (Solution) v1.1\ExerC2 ListeDisquesCompacts (Solution)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.exe
+E:\_420-206 H15\_Module 2\R09 ListView (Solution) v1.1\ExerC2 ListeDisquesCompacts (Solution)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.pdb
+E:\_420-206 H15\_Module 2\R09 ListView (Solution) v1.1\ExerC2 ListeDisquesCompacts (Solution)\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.exe
+E:\_420-206 H15\_Module 2\R09 ListView (Solution) v1.1\ExerC2 ListeDisquesCompacts (Solution)\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.pdb
+E:\_420-206 H15\_Module 2\R09 ListView (Solution) v1.1\ExerC2 ListeDisquesCompacts (Solution)\ListeDisquesCompacts\bin\Debug\IntroObjets.pdb
+E:\_420-206 H15\_Module 2\R09 ListView (Solution) v1.1\ExerC2 ListeDisquesCompacts (Solution)\ListeDisquesCompacts\bin\Debug\IntroObjets.xml
+E:\_420-206 H15\_Module 2\R09 ListView (Solution) v1.1\ExerC2 ListeDisquesCompacts (Solution)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csprojResolveAssemblyReference.cache
+E:\_420-206 H15\_Module 2\R09 ListView (Solution) v1.1\ExerC2 ListeDisquesCompacts (Solution)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.FrmPrincipal.resources
+E:\_420-206 H15\_Module 2\R09 ListView (Solution) v1.1\ExerC2 ListeDisquesCompacts (Solution)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.Properties.Resources.resources
+E:\_420-206 H15\_Module 2\R09 ListView (Solution) v1.1\ExerC2 ListeDisquesCompacts (Solution)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csproj.GenerateResource.Cache
+G:\_420-206 H15\_Module 2 H15\R09 ListView (Solution) H15.1\ExerC2 ListeDisquesCompacts (Solution) H15.1\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.exe
+G:\_420-206 H15\_Module 2 H15\R09 ListView (Solution) H15.1\ExerC2 ListeDisquesCompacts (Solution) H15.1\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.pdb
+G:\_420-206 H15\_Module 2 H15\R09 ListView (Solution) H15.1\ExerC2 ListeDisquesCompacts (Solution) H15.1\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.exe
+G:\_420-206 H15\_Module 2 H15\R09 ListView (Solution) H15.1\ExerC2 ListeDisquesCompacts (Solution) H15.1\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.pdb
+G:\_420-206 H15\_Module 2 H15\R09 ListView (Solution) H15.1\ExerC2 ListeDisquesCompacts (Solution) H15.1\ListeDisquesCompacts\bin\Debug\IntroObjets.pdb
+G:\_420-206 H15\_Module 2 H15\R09 ListView (Solution) H15.1\ExerC2 ListeDisquesCompacts (Solution) H15.1\ListeDisquesCompacts\bin\Debug\IntroObjets.xml
+G:\_420-206 H15\_Module 2 H15\R09 ListView (Solution) H15.1\ExerC2 ListeDisquesCompacts (Solution) H15.1\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csprojResolveAssemblyReference.cache
+G:\_420-206 H15\_Module 2 H15\R09 ListView (Solution) H15.1\ExerC2 ListeDisquesCompacts (Solution) H15.1\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.FrmPrincipal.resources
+G:\_420-206 H15\_Module 2 H15\R09 ListView (Solution) H15.1\ExerC2 ListeDisquesCompacts (Solution) H15.1\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.Properties.Resources.resources
+G:\_420-206 H15\_Module 2 H15\R09 ListView (Solution) H15.1\ExerC2 ListeDisquesCompacts (Solution) H15.1\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csproj.GenerateResource.Cache
+G:\_420-206 A16\_Module 2\R09 ListView (Solution) H15.2\ExerC2 ListeDisquesCompacts (Solution) H15.1.1\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.exe
+G:\_420-206 A16\_Module 2\R09 ListView (Solution) H15.2\ExerC2 ListeDisquesCompacts (Solution) H15.1.1\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.pdb
+G:\_420-206 A16\_Module 2\R09 ListView (Solution) H15.2\ExerC2 ListeDisquesCompacts (Solution) H15.1.1\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.exe
+G:\_420-206 A16\_Module 2\R09 ListView (Solution) H15.2\ExerC2 ListeDisquesCompacts (Solution) H15.1.1\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.pdb
+G:\_420-206 A16\_Module 2\R09 ListView (Solution) H15.2\ExerC2 ListeDisquesCompacts (Solution) H15.1.1\ListeDisquesCompacts\bin\Debug\IntroObjets.pdb
+G:\_420-206 A16\_Module 2\R09 ListView (Solution) H15.2\ExerC2 ListeDisquesCompacts (Solution) H15.1.1\ListeDisquesCompacts\bin\Debug\IntroObjets.xml
+G:\_420-206 A16\_Module 2\R09 ListView (Solution) H15.2\ExerC2 ListeDisquesCompacts (Solution) H15.1.1\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csprojResolveAssemblyReference.cache
+G:\_420-206 A16\_Module 2\R09 ListView (Solution) H15.2\ExerC2 ListeDisquesCompacts (Solution) H15.1.1\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.FrmPrincipal.resources
+G:\_420-206 A16\_Module 2\R09 ListView (Solution) H15.2\ExerC2 ListeDisquesCompacts (Solution) H15.1.1\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.Properties.Resources.resources
+G:\_420-206 A16\_Module 2\R09 ListView (Solution) H15.2\ExerC2 ListeDisquesCompacts (Solution) H15.1.1\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csproj.GenerateResource.Cache
+E:\_420-206 A16\_Module 2\R09 ListView (Solution) H16.1\ExerC2 ListeDisquesCompacts (Solution) H16.1\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.exe
+E:\_420-206 A16\_Module 2\R09 ListView (Solution) H16.1\ExerC2 ListeDisquesCompacts (Solution) H16.1\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.pdb
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H16.1\ExerC2 ListeDisquesCompacts (Solution) H16.1\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.exe
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H16.1\ExerC2 ListeDisquesCompacts (Solution) H16.1\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.pdb
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H16.1\ExerC2 ListeDisquesCompacts (Solution) H16.1\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.exe
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H16.1\ExerC2 ListeDisquesCompacts (Solution) H16.1\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.pdb
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H16.1\ExerC2 ListeDisquesCompacts (Solution) H16.1\ListeDisquesCompacts\bin\Debug\IntroObjets.pdb
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H16.1\ExerC2 ListeDisquesCompacts (Solution) H16.1\ListeDisquesCompacts\bin\Debug\IntroObjets.xml
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H16.1\ExerC2 ListeDisquesCompacts (Solution) H16.1\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csprojResolveAssemblyReference.cache
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H16.1\ExerC2 ListeDisquesCompacts (Solution) H16.1\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.FrmPrincipal.resources
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H16.1\ExerC2 ListeDisquesCompacts (Solution) H16.1\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.Properties.Resources.resources
+E:\_420-206 H17\_Module 2\R09 ListView (Solution) H16.1\ExerC2 ListeDisquesCompacts (Solution) H16.1\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csproj.GenerateResource.Cache
+H:\_Cours 206 H18\_H18 Module #2\R10 ListView\R10 ListView (Solution) H17.1\ExerC2 ListeDisquesCompacts (Solution) H16.1\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.exe
+H:\_Cours 206 H18\_H18 Module #2\R10 ListView\R10 ListView (Solution) H17.1\ExerC2 ListeDisquesCompacts (Solution) H16.1\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.pdb
+H:\_Cours 206 H18\_H18 Module #2\R10 ListView\R10 ListView (Solution) H17.1\ExerC2 ListeDisquesCompacts (Solution) H16.1\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csprojResolveAssemblyReference.cache
+H:\_Cours 206 H18\_H18 Module #2\R10 ListView\R10 ListView (Solution) H17.1\ExerC2 ListeDisquesCompacts (Solution) H16.1\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.FrmPrincipal.resources
+H:\_Cours 206 H18\_H18 Module #2\R10 ListView\R10 ListView (Solution) H17.1\ExerC2 ListeDisquesCompacts (Solution) H16.1\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.Properties.Resources.resources
+H:\_Cours 206 H18\_H18 Module #2\R10 ListView\R10 ListView (Solution) H17.1\ExerC2 ListeDisquesCompacts (Solution) H16.1\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csproj.GenerateResource.Cache
+H:\_Cours 206 H18\_H18 Module #2\R10 ListView\R10 ListView (Solution) H17.1\ExerC2 ListeDisquesCompacts (Solution) H16.1\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.exe
+H:\_Cours 206 H18\_H18 Module #2\R10 ListView\R10 ListView (Solution) H17.1\ExerC2 ListeDisquesCompacts (Solution) H16.1\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.pdb
+H:\_Cours 206 H18\_H18 Module #2\R10 ListView\R10 ListView (Solution) H17.1\ExerC2 ListeDisquesCompacts (Solution) H16.1\ListeDisquesCompacts\bin\Debug\IntroObjets.dll
+H:\Hiv2018\206_18\R10ListView DateTime\R10 ListView (Solution) H17.1\ExerC2 ListeDisquesCompacts (Solution) H18.1.0\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.exe
+H:\Hiv2018\206_18\R10ListView DateTime\R10 ListView (Solution) H17.1\ExerC2 ListeDisquesCompacts (Solution) H18.1.0\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.pdb
+C:\EspaceLabo\R11 ListView (Solution) H20.1.0\Exer04 ListeDisquesCompacts\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.exe
+C:\EspaceLabo\R11 ListView (Solution) H20.1.0\Exer04 ListeDisquesCompacts\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.pdb
+C:\EspaceLabo\R11 ListView (Solution) H20.1.0\Exer04 ListeDisquesCompacts\ListeDisquesCompacts\bin\Debug\IntroObjets.pdb
+C:\EspaceLabo\R11 ListView (Solution) H20.1.0\Exer04 ListeDisquesCompacts\ListeDisquesCompacts\bin\Debug\IntroObjets.xml
+C:\EspaceLabo\R11 ListView (Solution) H20.1.0\Exer04 ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csprojAssemblyReference.cache
+C:\EspaceLabo\R11 ListView (Solution) H20.1.0\Exer04 ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.FrmPrincipal.resources
+C:\EspaceLabo\R11 ListView (Solution) H20.1.0\Exer04 ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.Properties.Resources.resources
+C:\EspaceLabo\R11 ListView (Solution) H20.1.0\Exer04 ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csproj.GenerateResource.cache
+C:\EspaceLabo\R11 ListView (Solution) H20.1.0\Exer04 ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csproj.CopyComplete
+C:\EspaceLabo\R11 ListView (Solution) H20.1.0\Exer04 ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.exe
+C:\EspaceLabo\R11 ListView (Solution) H20.1.0\Exer04 ListeDisquesCompacts\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.pdb
+C:\EspaceLabo\R11 ListView (Materiel) H20.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.exe
+C:\EspaceLabo\R11 ListView (Materiel) H20.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.pdb
+C:\EspaceLabo\R11 ListView (Materiel) H20.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\bin\Debug\IntroObjets.pdb
+C:\EspaceLabo\R11 ListView (Materiel) H20.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\bin\Debug\IntroObjets.xml
+C:\EspaceLabo\R11 ListView (Materiel) H20.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csprojAssemblyReference.cache
+C:\EspaceLabo\R11 ListView (Materiel) H20.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.FrmPrincipal.resources
+C:\EspaceLabo\R11 ListView (Materiel) H20.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.Properties.Resources.resources
+C:\EspaceLabo\R11 ListView (Materiel) H20.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csproj.GenerateResource.cache
+C:\EspaceLabo\R11 ListView (Materiel) H20.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csproj.CopyComplete
+C:\EspaceLabo\R11 ListView (Materiel) H20.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.exe
+C:\EspaceLabo\R11 ListView (Materiel) H20.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.pdb
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H20.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.exe.config
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H20.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.exe
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H20.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.pdb
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H20.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H20.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H20.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H20.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H20.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H20.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csproj.CopyComplete
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H20.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.exe
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H20.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.pdb
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H20.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\bin\Debug\Librairie1N6.pdb
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H20.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\bin\Debug\Librairie1N6.xml
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H21.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.exe.config
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H21.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.exe
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H21.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.pdb
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H21.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\bin\Debug\Librairie1N6.pdb
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H21.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\bin\Debug\Librairie1N6.xml
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H21.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H21.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H21.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H21.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H21.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H21.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csproj.CopyComplete
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H21.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.exe
+J:\H21 2N6 Les Capsules\R11 DateTime & ListView\_Code C#\R11 ListView (Materiel) H21.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.pdb
+C:\Users\stephane.desmeules\Downloads\Rencontres\R11 ListView (Materiel) H23.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.exe.config
+C:\Users\stephane.desmeules\Downloads\Rencontres\R11 ListView (Materiel) H23.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.exe
+C:\Users\stephane.desmeules\Downloads\Rencontres\R11 ListView (Materiel) H23.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\bin\Debug\ListeDisquesCompacts.pdb
+C:\Users\stephane.desmeules\Downloads\Rencontres\R11 ListView (Materiel) H23.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\bin\Debug\Librairie1N6.pdb
+C:\Users\stephane.desmeules\Downloads\Rencontres\R11 ListView (Materiel) H23.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\bin\Debug\Librairie1N6.xml
+C:\Users\stephane.desmeules\Downloads\Rencontres\R11 ListView (Materiel) H23.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\Rencontres\R11 ListView (Materiel) H23.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.FrmPrincipal.resources
+C:\Users\stephane.desmeules\Downloads\Rencontres\R11 ListView (Materiel) H23.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\Rencontres\R11 ListView (Materiel) H23.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\Rencontres\R11 ListView (Materiel) H23.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\Rencontres\R11 ListView (Materiel) H23.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.csproj.CopyComplete
+C:\Users\stephane.desmeules\Downloads\Rencontres\R11 ListView (Materiel) H23.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.exe
+C:\Users\stephane.desmeules\Downloads\Rencontres\R11 ListView (Materiel) H23.1.0\Exer04 ListeDisquesCompacts\Exer04 ListeDisquesCompacts (Depart)\ListeDisquesCompacts\obj\Debug\ListeDisquesCompacts.pdb
